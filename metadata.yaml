@@ -1,4 +1,5 @@
 _repo: The-Works-of-Lord-Byron-Vol-1-Poetry_8861
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,6 +9,9 @@ contributor:
       gutenberg_agent_id: '2902'
       url: http://www.gutenberg.org/2009/agents/2902
       wikipedia: http://en.wikipedia.org/wiki/Ernest_Hartley_Coleridge
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Byron, George Gordon Byron, Baron
@@ -20,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1708
     wikipedia: http://en.wikipedia.org/wiki/George_Gordon_Byron,_6th_Baron_Byron
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8861#The-Works-of-Lord-Byron-Vol-1-Poetry
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
